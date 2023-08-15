@@ -1,0 +1,108 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+/*cont{
+  display: flex;
+  width: 50%;
+  align-items: center;
+  padding: 0px 0px 14px 20px;
+  height: 15vh;
+  border: 1px solid black;
+  background-color: white;
+}*/
+.item1{
+    width: 50%;
+    height: 95vh;
+    background-color:silver;
+}
+.item2{
+    width: 50%;
+    height: 95vh;
+    position: relative;
+    left: 680px;
+    bottom: 610px;
+}
+.blue-blood{
+    position: relative;
+    top: -35px;
+}
+.blue-blood .bi-messenger{
+    position: relative;
+    left: 560px;
+}
+.blue-blood .bi-search{
+    position: relative;
+    left: 550px;
+}
+.blue-blood .bi-plus{
+    position: relative;
+    left: 540px;
+}
+h1{
+    color: blue;
+}
+.black-blood .bi-menu-button-wide{
+    position: relative;
+    left: 400px;
+}
+.black-blood .bi-bell{
+    position: relative;
+    left: 310px;
+}
+.black-blood .bi-shop{
+    position: relative;
+    left: 210px;
+}
+.black-blood .bi-tv{
+    position: relative;
+    left: 120px;
+}
+.black-blood .bi-people{
+    position: relative;
+    left: 70px;
+}
+img{
+    border-radius: 20px;
+    position: relative;
+    top: 10px;
+}
+.search-box{
+    border-radius: 25px;
+    width: 300px;
+    padding: 2%;
+    margin: 10px;
+}
+.bi-image{
+    position: relative;
+    left: 190px;
+}
+.search-box{
+    position: relative;
+    left: 110px;
+}
+.calculus{
+    height: 1vh;
+    background-color: rgb(119, 118, 118);
+}
+.ribbon{
+    position: relative;
+    left: 25px;
+}
+.felon{
+    position: relative;
+    top: 30px;
+    height: 1vh;
+    background-color: gray;
+}
+.blond{
+    border-radius: 25px;
+}
+.futo{
+    position: relative;
+    top: 20px;
+}
+.bi-share-fill{
+    position: relative;
+    left: 60px;
+}
